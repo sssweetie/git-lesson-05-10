@@ -1,3 +1,3 @@
 # git-lesson-05-10
 
-Hello world 
+# Homework 3.
