@@ -18,3 +18,8 @@ git branch – посмотреть список веток в репозито�
 git branch <название ветки> – создать новую ветку
 git checkout -b <название ветки> – создать новую ветку и переход к другой ветке
 git branch -d <название ветки> – удалить ветку
+
+Git via Git
+If you already have Git installed, you can get the latest development version via Git itself:
+git clone https://github.com/git/git
+You can also always browse the current contents of the git repository using the web interface.
