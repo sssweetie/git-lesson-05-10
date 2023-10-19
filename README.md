@@ -73,3 +73,4 @@
 **git branch -d branch_name** - Удалить уже слитую ветку
 
 **git commit -am "merge conflict resolve"** - Выполнить комит после разрешения конфликта
+
